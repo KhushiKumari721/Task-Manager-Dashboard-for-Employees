@@ -44,6 +44,11 @@ This project allows admins to assign tasks and employees to track their work pro
 
 ---
 
+## 📸 Screenshot
+<img width="500" height="500" alt="ems" src="https://github.com/user-attachments/assets/7d39c9e4-3121-47dd-b72d-646ec060cb97" />
+
+---
+
 ## 🛠️ Tech Stack
 
 * React.js
