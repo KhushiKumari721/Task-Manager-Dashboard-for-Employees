@@ -34,7 +34,6 @@ This project allows admins to assign tasks and employees to track their work pro
 * Email: employee5@example.com
 * Password: 123
 
-
 ### 👨‍💼 Admin Login
 
 * Email: admin@me.com
